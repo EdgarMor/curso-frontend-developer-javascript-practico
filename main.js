@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 const menuEmail = document.querySelector('.navbar-email');
 const menuHamIcon = document.querySelector('.menu');
 const menuCarritoIcon = document.querySelector('.navbar-shopping-cart');
@@ -98,4 +96,3 @@ function renderProducts(arr) {
 }
 
 renderProducts(productList);
->>>>>>> b8176ac (Cambio de menu y carrito de compras)
